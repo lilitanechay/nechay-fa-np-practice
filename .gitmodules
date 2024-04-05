@@ -235,3 +235,6 @@
 [submodule "Nec"]
 	path = Nec
 	url = https://github.com/lilitanechay/Nec
+[submodule "7_TCP_server"]
+	path = 7_TCP_server
+	url = https://github.com/lilitanechay/7_TCP_server
